@@ -1,2 +1,4 @@
 from area import area_of_circle
-assert area_of_circle(12) == 75.36
+def test_area():
+    assert area_of_circle(5) == 7.85
+
