@@ -8,5 +8,5 @@ if len(sys.argv) == 2:
     area = area_of_circle(r)
     print("Area of circle:", area)
 else:
-    print("Usage: python circle.py <radius>")
+    print("correct")
 
